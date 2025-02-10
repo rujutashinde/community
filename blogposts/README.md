@@ -1,6 +1,6 @@
 ## Podman Desktop Blogposts
 
-This space is provided for community members to add their blogposts involving podman-desktop
+This space is designed for community members to share their blogposts related to Podman Desktop. These blogposts serve as a valuable tool for raising awareness about the project. The Podman Desktop team may also republish them across various Podman Desktop channels and feature them on the Podman Desktop dashboard.
 
 ### Adding your Podman Desktop blogposts
 
@@ -10,7 +10,7 @@ This space is provided for community members to add their blogposts involving po
 4. Create a pull request with the updated table
 5. One of the repo maintainers will check your PR and merge it
 
-| Name               | GitHub handle | Event      | Year    | Title & link
-|--------------------|---------------|------------|---------|----------------------------------
-|John Doe            | @jd           | DevConf    | 2025    | [podman desktop intro](http://abc.com)|
+| Name               | GitHub handle | Year    | Title & link
+|--------------------|---------------|---------|----------------------------
+|John Doe            | @jd           | 2025    | [podman desktop intro](http://abc.com)|
 

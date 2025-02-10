@@ -1,12 +1,13 @@
 ## Podman Desktop Presentations
 
-This space is provided for community members to add their presentations involving podman desktop
+
+This space is designed for community members to share their presentations related to Podman Desktop. These presentations serve as a valuable tool for raising awareness about the project. The Podman Desktop team may also republish them across various Podman Desktop channels and feature them on the Podman Desktop dashboard.
 
 ### Adding your Podman Desktop presentations
 
 1. Fork this [repository](https://github.com/podman-desktop/community/fork) 
 2. Add a new row to the table with your name, GitHub handle, event name and year, and a link to either :
-   - a YouTube recording of the Podman Desktop presentation
+   - a YouTube or any other recording of the Podman Desktop presentation
    - your (online) slide deck
    - an event page with session details that shows you spoke abou Podman Desktop at an event
 3. Ensure to sign-off your commit
