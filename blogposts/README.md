@@ -12,5 +12,5 @@ This space is designed for community members to share their blogposts related to
 
 | Name               | GitHub handle | Year    | Title & link
 |--------------------|---------------|---------|----------------------------
-|John Doe            | @jd           | 2025    | [podman desktop intro](http://abc.com)|
+|Axel Stefanini            | @axel7083           | 2025    | [Podman-Quadlet](https://podman-desktop.io/blog/podman-quadlet)|
 
